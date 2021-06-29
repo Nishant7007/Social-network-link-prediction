@@ -1,4 +1,4 @@
-Social Network Graph link prediciton
+Social Network Graph link prediction
 
 Dataset Link - https://drive.google.com/drive/folders/12KiSqmDsvVh5kN3Li5R7qRK2xLydrn3w?usp=sharing
 
